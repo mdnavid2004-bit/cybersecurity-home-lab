@@ -6,7 +6,7 @@
 | # | Attack | Writeup |
 |---|--------|---------|
 | 1 | MySQL Unauthenticated Access & Credential Harvesting | [View PDF](./Lab_Writeup_MySQL_Attack_Navid_Final.pdf) |
-| 2 | ARP Poisoning & Man-in-the-Middle Attack | arpspoof, Wireshark, dsniff | [View PDF](./ARP_Poisoning_MITM_Lab_Writeup.pdf) |
+| 2 | ARP Poisoning & Man-in-the-Middle Attack | [View PDF](./ARP_Poisoning_MITM_Lab_Writeup.pdf) |
 
 ## Lab Environment
 - Kali Linux (Attacker) — 192.168.56.101

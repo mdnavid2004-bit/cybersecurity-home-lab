@@ -1,4 +1,4 @@
-# 🔐 Cyber security Home Lab
+# 🔐 Cybersecurity Home Lab
 
 **Attacker:** Kali Linux | **Target:** Metasploitable 2 | **Platform:** VirtualBox
 

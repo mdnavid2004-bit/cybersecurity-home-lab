@@ -19,9 +19,9 @@
 - Network: VirtualBox Host-Only Adapter
 
 ## Tools Used
-- Nmap, MySQL Client,
-- arpspoof, Wireshark, dsniff
-- Splunk Enterprise, Splunk Universal Forwarder, Hydra, OpenSSH
+- Lab1:Nmap, MySQL Client,
+- Lab2:Arpspoof, Wireshark, Dsniff
+- Lab3:Splunk Enterprise, Splunk Universal Forwarder, Hydra, OpenSSH
 
 ## Skills Demonstrated
 ### Lab 1 — MySQL Unauthenticated Access & Credential Harvesting

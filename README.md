@@ -6,8 +6,8 @@
 ## Writeups
 | # | Attack | Writeup |
 |---|--------|---------|
-| 1 | MySQL Unauthenticated Access & Credential Harvesting | [View PDF](./Lab1_MySQL_Unauthenticated_Access_&_Credential_Harvesting) |
-| 2 | ARP Poisoning & Man-in-the-Middle Attack | [View PDF](./Lab2_ARP_Poisoning_&_Man_In_The_Middle(MITM)_Attack) |
+| 1 | MySQL Unauthenticated Access & Credential Harvesting | [View PDF](./Lab1_MySQL_Unauthenticated_Access_&_Credential_Harvesting.pdf) |
+| 2 | ARP Poisoning & Man-in-the-Middle Attack | [View PDF](./Lab2_ARP_Poisoning_&_Man_In_The_Middle(MITM)_Attack.pdf) |
 | 3 | SSH Brute Force Detection Using Splunk SIEM | [View PDF](./Lab3_SSH_Brute_Force_Detection_Using_Splunk_SIEM.pdf) |
 
 

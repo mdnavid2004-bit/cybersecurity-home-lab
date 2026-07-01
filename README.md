@@ -9,6 +9,8 @@
 | 1 | MySQL Unauthenticated Access & Credential Harvesting | [View PDF](./Lab1_MySQL_Unauthenticated_Access_&_Credential_Harvesting.pdf) |
 | 2 | ARP Poisoning & Man-in-the-Middle Attack | [View PDF](./Lab2_ARP_Poisoning_&_Man_In_The_Middle(MITM)_Attack.pdf) |
 | 3 | SSH Brute Force Detection Using Splunk SIEM | [View PDF](./Lab3_SSH_Brute_Force_Detection_Using_Splunk_SIEM.pdf) |
+| 4 | Windows Event Log Detection – RDP Brute Force via Splunk SIEM | [View PDF](./Lab4_Windows_Event_Log_Detection%2–%2RDP_Brute_Force_via_Splunk_SIEM.pdf) |
+
 
 
 ## Lab Environment
@@ -22,6 +24,7 @@
 - Lab1:Nmap, MySQL Client,
 - Lab2:Arpspoof, Wireshark, Dsniff
 - Lab3:Splunk Enterprise, Splunk Universal Forwarder, Hydra, OpenSSH
+- Lab4:Splunk Enterprise, Hydra, Nmap, Windows Audit Policy
 
 ## Skills Demonstrated
 ### Lab 1 — MySQL Unauthenticated Access & Credential Harvesting
@@ -45,5 +48,15 @@
 - Threat Detection & Alerting
 - Blue Team / SOC L1 Detection Workflow
 - MITRE ATT&CK Mapping (T1110.001)
+
+### Lab 4 – Windows Event Log Detection – RDP Brute Force via Splunk SIEM
+- Windows Audit Policy Configuration (secpol.msc)
+- Windows Security Event Log Analysis (Event ID 4624/4625)
+- Splunk Local Event Log Ingestion & SPL Querying
+- RDP Brute Force Simulation (Hydra)
+- Network Reconnaissance (Nmap)
+- SIEM Alert Creation & Threshold-Based Detection
+- MITRE ATT&CK Mapping (T1110, T1021.001, T1046, T1078)
+
 
 
